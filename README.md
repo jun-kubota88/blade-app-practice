@@ -13,3 +13,4 @@ COACHTECH 教材 Tutorial 9-2「Bladeテンプレート ハンズオン演習」
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+- <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/18575d46-9c2c-4c16-a609-8db8d5b8fc3d" />
